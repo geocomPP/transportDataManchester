@@ -1,0 +1,16 @@
+---
+title: "Vignette Title"
+author: "Vignette Author"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+Transport for Greater Manchester decided to start publishing real time data in 2016. The documentation for the API can be found [here](http://www.tfgm.com/Corporate/Informationwehold/Pages/Transparency-and-Open-Data.aspx).
+
+You suscribe to the API, then you can use the data.
+
+

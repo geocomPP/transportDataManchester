@@ -12,3 +12,6 @@ Imports: tmap,
     stplanr,
     OpenStreetMap,
     mapview
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
